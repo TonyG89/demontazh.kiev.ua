@@ -1,0 +1,146 @@
+.footer-container h1 {
+    margin-bottom: 18px;
+}
+
+.iconcolor {
+    color: #3E3939 !important;
+}
+
+.iconcolor-orange {
+    color: #e74c3c;
+}
+
+.phone-number {
+    font-size: 18px;
+    color: #fff;
+    top: -15px;
+}
+
+.nav-sticky .phone-number {
+    color: #333;
+}
+
+.cst-btn-padding {
+    padding-top: 75px;
+}
+
+hr {
+    height: 2px;
+    margin-top: -2rem;
+    margin-bottom: 2.5rem;
+    background: #D7CFCF;
+}
+
+.blk {
+    padding: 10px;
+    border-radius: 5px;
+    background: rgba(211, 211, 211, 0.5);
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.blk-form {
+    border-radius: 5px;
+    background: rgba(211, 211, 211, 1);
+    display: inline-block;
+    padding: 10px;
+}
+
+header form.form-contact.email-form {
+    position: relative;
+    float: left;
+    width: 100%;
+    padding: 12px 0;
+    background: rgba(211, 211, 211, 0.5);
+    border-radius: 5px;
+    margin-bottom: 0;
+}
+
+header .photo-form-wrapper input {
+    margin-bottom: 0;
+}
+
+.diamond-technology h5 {
+    margin-top: 12px;
+}
+
+.description h5 {
+    margin-top: 15px;
+}
+
+.how-do-we-work h5 {
+    margin-top: 25px;
+}
+
+.img-circle-cst {
+    border-radius: 5px;
+}
+
+.modal-content {
+    background-color: #E7E7E7;
+}
+
+.modal input[type="text"] {
+    border: none;
+    box-shadow: none;
+    background: #fff;
+    border-radius: 5px;
+    padding: 14px 16px;
+    width: 100%;
+    margin-bottom: 30px;
+    max-width: 100%;
+}
+
+.modal input[type="submit"] {
+    height: 5rem;
+    font-size: 2rem;
+    width: 100%;
+}
+
+.row.naw-menu .col-md-2 {
+    padding-left: 0;
+}
+
+.row.naw-menu .col-md-10 {
+    padding-right: 0;
+}
+
+.dismantling h1, .diamond1 h1, .diamond2 h1, .dismantling .lead, .diamond1 .lead, .diamond2 .lead {
+    color: #222;
+	}
+
+.dismantling h1, .diamond1 h1, .diamond2 h1 {
+    line-height: 42px;
+}
+
+.dismantling .lead, .diamond1 .lead, .diamond2 .lead {
+    line-height: 26px;
+}
+
+.diamond1 .blk {
+    margin: 40px 15px 0;
+}
+
+.diamond2 .blk {
+    margin: 15px 15px 0;
+}
+
+.dismantling .blk {
+    margin-top: 11px;
+}
+
+.feature-icon-left .feature-text h6 {
+    line-height: 17px;
+}
+
+.menu-time {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+@media (min-width: 768px) {
+    .modal-dialog {
+        width: 400px;
+    }
+}
